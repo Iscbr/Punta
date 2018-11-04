@@ -1,0 +1,4 @@
+  1.- Revisar poscisión de nav. -> si va en body.
+  2.- Agregar enlaces de login y signup.
+  3.- Mover scripts a independiente.
+  4.- Estilos de formas.
